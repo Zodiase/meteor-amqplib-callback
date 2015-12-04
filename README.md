@@ -1,0 +1,1 @@
+Wrapped amqplib callback API. Version matches amqplib version.
